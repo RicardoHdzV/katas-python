@@ -1,0 +1,2 @@
+# katas-python
+Ejercicios katas
